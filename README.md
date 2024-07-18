@@ -12,8 +12,9 @@
 
 ## Installation
 
-1. **Download**: Clone or download the repository.
-2. **Include**: Include the `InputSanitizer.php` file in your WordPress plugin or theme.
+1. **Requirements**: Ensure your server is running PHP version 8.0 or above.
+2. **Download**: Clone or download the repository.
+4. **Include**: Include the `InputSanitizer.php` file in your WordPress plugin or theme.
 
 ## Usage
 
